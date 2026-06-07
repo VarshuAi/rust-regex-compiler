@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  A regular expression pattern matcher built natively in Rust.
+  name: rust-regex-compiler version: 1.0 type: Repository author: VarshuAi description: >   A regular expression pattern matcher built natively in Rust. primary_tech: Rust
 primary_tech: Rust
 ```
 
